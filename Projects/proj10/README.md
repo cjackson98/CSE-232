@@ -1,0 +1,1 @@
+This project is incomplete. I struggled at the time to understand/complete the material in the given amount of time while completing work for my other classes. However, the following project (project 11) encapsulates much of the same information/material and I was able to complete that project.
